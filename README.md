@@ -1,2 +1,3 @@
 # leetcode_problem_solving
-my daily pratice
+
+Hello, here is my daily practice for leetcode problem and the corresponding thinking.
